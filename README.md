@@ -1,10 +1,11 @@
 ### 👋  Welcome to my profile. My name is Jeff Foster 😄
-I'm passionate about communicating business insights and stories through unique and appealing visuals.
+
 
 ## 🧍 About Me
 - 🍁 Based in Calgary, Alberta, Canada.
 - 📚 Pursuing a Master’s in Data Science & Analytics at the University of Calgary.
 - 🏆 I have experience building & optimizing business intelligence solutions for non-profits, sports & recreation organizations, marketing agencies, and government organizations.
+- I'm passionate about communicating business insights and stories through unique and appealing visuals.
 
 ## 🔧 My Skills
 - **Languages:** Python, R, SQL, English, & French
