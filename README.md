@@ -1,6 +1,5 @@
 ## 👋  Welcome to my profile. I hope you came here on purpose. 😄
 
-<!--
 - 🏡 My name is Jeff Foster and I live in Calgary, Canada.
 - 🎓 I'm currently completing my Masters in Data Science & Analytics at the University of Calgary.
 - 📈 I've been optimizing business intelligence solutions with not-for-profits, sports & recreation organizations, marketing agencies, and government organizations.
@@ -11,4 +10,3 @@
 - 💬 Ask me about Python, R, SQL, Power BI, and how to use these tools to craft a story. Let's talk about the science & art of data storytelling.
 - 🏒 Personally you should ask me about SPORTS ANALYTICS, and how I would be the greatest team General Manager.
 - ⛰️ Away from the screen, you can find me in the mountains hiking, camping, skiing, or rock climbing.
-<!--
