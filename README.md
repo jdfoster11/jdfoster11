@@ -1,12 +1,35 @@
-## 👋  Welcome to my profile. I hope you came here on purpose. 😄
+### 👋  Welcome to my profile. My name is Jeff Foster 😄
+I'm passionate about communicating business insights and stories through unique and appealing visuals.
 
-- 🏡 My name is Jeff Foster and I live in Calgary, Canada.
-- 🎓 I'm currently completing my Masters in Data Science & Analytics at the University of Calgary.
-- 📈 I've been optimizing business intelligence solutions with not-for-profits, sports & recreation organizations, marketing agencies, and government organizations.
-- 🏗️ I'm currently building skills  to become the ultimate data-storyteller.
-- 🖥️ I'm interested in learning, enhancing, and expressing my Python, R, SQL, and Power BI skills.
-- 🤔 I'm looking for help with expressing my skillset to my network.
-- 🌱 I am a skilled business communicator growing my statistical and programming capabilities.
-- 💬 Ask me about Python, R, SQL, Power BI, and how to use these tools to craft a story. Let's talk about the science & art of data storytelling.
-- 🏒 Personally you should ask me about SPORTS ANALYTICS, and how I would be the greatest team General Manager.
-- ⛰️ Away from the screen, you can find me in the mountains hiking, camping, skiing, or rock climbing.
+## 🧍 About Me
+- 🍁 Based in Calgary, Alberta, Canada.
+- 📚 Pursuing a Master’s in Data Science & Analytics at the University of Calgary.
+- 🏆 I have experience building & optimizing business intelligence solutions for non-profits, sports & recreation organizations, marketing agencies, and government organizations.
+
+## 🔧 My Skills
+- **Languages:** Python, R, SQL, English, & French
+- **Tools:** Power BI, Tableau, Excel, Jupyter, RStudio, RMarkdown
+- **Strengths:** Cross-disciplinary communication, data storytelling, and outcome-oriented problem-solving
+
+## 🎓 My Education
+- **Master’s Degree in Data Science & Analytics** - University of Calgary (In Progress)
+- **Graduate Diploma in Financial and Energy Markets Data Modelling** - University of Calgary (In Progress)
+- **Graduate Certificate in Data Science** - University of Calgary
+- **Certified Associate in Project Management** - Project Management Institute
+- **Bachelor's Degree in Commerce (Marketing)** - University of Saskatchewan
+
+## 🏗️ What I'm working on
+- Evaluating Car Collisions in the Northwest Territories to learn about safe driving habits.
+- Multi-Year Dynasty Fantasy Football trends to get a leg up over my friends in our league.
+- The impact of USA presidential election cycles on key commodity prices.
+- Honing my skills in data visualization, machine learning, and predictive analytics.
+- Improving French language comprehension and speaking skills.
+
+## ⛰️ My Interests:
+- Consumer Analytics
+- Energy Markets
+- Data & Tech Consulting
+- Sports Analytics
+- Outdoor adventures: Camping, skiing, rock climbing, & trail running
+
+If we share any interests, let's connect! I love discussing and learning new ideas from others.
