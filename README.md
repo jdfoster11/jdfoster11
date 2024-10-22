@@ -14,7 +14,7 @@
 
 ## 🎓 My Education
 - **Master’s Degree in Data Science & Analytics** - University of Calgary (In Progress)
-- **Graduate Diploma in Financial and Energy Markets Data Modelling** - University of Calgary (In Progress)
+- **Graduate Diploma in Business Analytics** - University of Calgary (In Progress)
 - **Graduate Certificate in Data Science** - University of Calgary
 - **Certified Associate in Project Management** - Project Management Institute
 - **Bachelor's Degree in Commerce (Marketing)** - University of Saskatchewan
@@ -23,7 +23,7 @@
 - Evaluating Car Collisions in the Northwest Territories to learn about safe driving habits.
 - Multi-Year Dynasty Fantasy Football trends to get a leg up over my friends in our league.
 - The impact of USA presidential election cycles on key commodity prices.
-- Honing my skills in data visualization, machine learning, and predictive analytics.
+- Honing my skills in data visualization, machine learning, and decision analytics.
 - Improving French language comprehension and speaking skills.
 
 ## ⛰️ My Interests:
